@@ -1,0 +1,8 @@
+UNDIRECTED GRAPH 5
+Friend John Mike
+Friend John Lisa
+Friend John Debashish
+Friend Debashish Mike
+Friend Paul Lisa
+Friend Debashish Lisa
+END
